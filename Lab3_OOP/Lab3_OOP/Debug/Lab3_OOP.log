@@ -1,0 +1,12 @@
+﻿  Divisor.cpp
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Divisor.cpp(18,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Divisor.cpp(24,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Divisor.cpp(46,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Divisor.cpp(52,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Multiplier.cpp
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Multiplier.cpp(18,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Multiplier.cpp(23,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Multiplier.cpp(45,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\b0nd7\source\repos\Lab3_OOP\Lab3_OOP\Multiplier.cpp(50,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Lab3_OOP.vcxproj -> C:\Users\b0nd7\source\repos\Lab3_OOP\Debug\Lab3_OOP.exe
